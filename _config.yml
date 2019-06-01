@@ -1,0 +1,20 @@
+# Site settings
+author: Paul Woody
+title: My Foray Into Data Science
+header-img: img/home-bg.png
+email: pa.woods.atl@gmail.com
+copyright_name: Paul Woody
+description: > # this means to ignore newlines until "baseurl:"
+  Sharing my journey to becoming a Data Scientist.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  pawoody
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
