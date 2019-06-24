@@ -1,7 +1,7 @@
 # Site settings
 author: Paul Woody
 title: My Foray Into Data Science
-header-img: <blockquote class="imgur-embed-pub" lang="en" data-id="JF8zf1P"><a href="https://imgur.com/JF8zf1P">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+header-img: /pawoodybanner.png
 email: pa.woods.atl@gmail.com
 copyright_name: Paul Woody
 description: > # this means to ignore newlines until "baseurl:"
