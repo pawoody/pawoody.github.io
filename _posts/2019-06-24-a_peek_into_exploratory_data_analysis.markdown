@@ -6,8 +6,6 @@ permalink:  a_peek_into_exploratory_data_analysis
 ---
 
 
-## A Peek into Exploratory Data Analysis
-
 Picture this:  The year is 1970 and you’ve just turned 18. It’s your first Summer as an adult, and you’re ready to explore the world, finally allowed to take that road trip with your best friends. The morning of the trip comes, you wake up, pick up your friends, and spiritedly make your way toward your destination. In your excitement, reveling in your newfound freedom, you speed along the road with the windows down.  Hours later, you realize that no one brought a map and (since cell phones don’t exist) you pull into a gas station for directions. There are no maps but the clerk is kind enough to attempt to attempt to draw one. You head on your way, meandering down the road, cursing your makeshift map and the damn clerk that drew it, too.
 
 Oddly enough, this fictitious coming of age story has parallels to the life of a fledgling Data Scientist.  The field of Data Science is perhaps as broad as the nature of data itself.  There are countless “tools” to add to your proverbial belt in the form of new libraries, languages, and SO. MUCH. MATH.  It’s easy to get lost in the latest trends, imagining all the things that you’ll do with data you don’t yet have or understand. Walking in on the first day of your new job, you’ll have already ideated on models you’ll build, correlations you’ll explore, and all of the glorious process automation you’ll implement.  On that day, if you’re very lucky, you’ll be presented with an updated ERD that accurately documents the data you need, all formatted perfectly. 
