@@ -1,10 +1,12 @@
 ---
 layout: post
 title:      "A Peek into Exploratory Data Analysis"
-date:       2019-06-24 16:26:38 +0000
+date:       2019-06-24 12:26:39 -0400
 permalink:  a_peek_into_exploratory_data_analysis
 ---
 
+
+## A Peek into Exploratory Data Analysis
 
 Picture this:  The year is 1970 and you’ve just turned 18. It’s your first Summer as an adult, and you’re ready to explore the world, finally allowed to take that road trip with your best friends. The morning of the trip comes, you wake up, pick up your friends, and spiritedly make your way toward your destination. In your excitement, reveling in your newfound freedom, you speed along the road with the windows down.  Hours later, you realize that no one brought a map and (since cell phones don’t exist) you pull into a gas station for directions. There are no maps but the clerk is kind enough to attempt to attempt to draw one. You head on your way, meandering down the road, cursing your makeshift map and the damn clerk that drew it, too.
 
